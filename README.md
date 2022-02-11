@@ -2,7 +2,7 @@
 <!-- ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.hellogiggles.com%2Fuploads%2F2016%2F06%2F27083846%2Fcast-away.gif&f=1&nofb=1) -->
 <!-- ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fl378gOLudxI4TZe9i%2Fgiphy.gif&f=1&nofb=1) -->
 
-# Toms Job Search Survival Pack
+# Tom's Job Search Survival Pack
 
 Just some links I wish I had in one place when I graduated from bootcamp and entered my job search. Non of this should take priority over the guidance of your job coach, nor should it be interpreted as a comprehensive list of the resources you will need during your job search in any way. That said hopefully some of its helpful, I'll keep adding to it when new resources become available.
 
@@ -47,6 +47,7 @@ https://files.slack.com/files-pri/T3BTYDL2V-F02V9CGUTFB/download/authenticate-me
 The exact location of some of the links for these projects on App Academy Open will be different based on your specific cohort. If that is the case they are not linked below. Unfortunately you'll have to track those down yourself but this may encourage you to find other useful items to review along the way!
 
 #### Module 4 - SQL & Express:
+* Data Driven Apps
 * [Amusement Park Tracker](https://github.com/appacademy-starters/express-amusement-park-tracker-with-auth)
 
 <!-- [Twitter Lite Backend](https://github.com/appacademy/Modular-Curriculum/tree/staging/content/express/topics/apis/projects/api-back-end) -->
@@ -57,7 +58,9 @@ The exact location of some of the links for these projects on App Academy Open w
 * Art Museum Project
 * [Star Trek Project](https://github.com/appacademy-starters/react-context-star-trek)
 * Greenhouse Project
+* Pokedex Thunk
 
+<!-- [Pokedex Thunk](https://open.appacademy.io/learn/js-py---jun-2021-cohort-1-online/week-15---redux-and-authentication/pokedex-thunk) -->
 <!-- [Greenhouse](https://github.com/appacademy-starters/greenhouse) -->
 <!-- [Grocery Store Instructions](https://open.appacademy.io/learn/js-py---jun-2021-cohort-1-online/week-15---redux-and-authentication/grocery-store-app) -->
 <!-- [Grocery Store](https://github.com/appacademy-starters/grocery-store.) -->
@@ -68,6 +71,10 @@ The exact location of some of the links for these projects on App Academy Open w
 #### Module 6 - Python & Flask:
 * Order Up
 * Package Tracker
+
+<!-- [Knight's Trevails](https://open.appacademy.io/learn/js-py---jun-2021-cohort-1-online/week-17---intro-to-python/phase-1) -->
+<!-- [Order Up](https://open.appacademy.io/learn/js-py---jun-2021-cohort-1-online/week-18---flask--sqlalchemy--and-forms/order-up-) -->
+<!-- [Package Tracker](https://open.appacademy.io/learn/js-py---jun-2021-cohort-1-online/week-18---flask--sqlalchemy--and-forms/package-tracker---day-1) -->
 
 ---
 
