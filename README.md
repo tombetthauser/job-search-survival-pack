@@ -57,9 +57,9 @@ The exact location of the links for these projects on App Academy Open will be d
 
 ## Leetcode Starter List
 
-This list is sometimes referred to as the 'blind 75', don't ask me why. Regardless though they represent a challenging but doable starting list that exposes you to a full range of subjects and difficulty levels. Additionally these questions are specifically chosen because they are commonly encountered in interviews. Generic youtube links are provided as a reminder that youtube is often a better resource than the leetcode discussion section.
+These questions represent a challenging but doable list that covers a full range of subjects and difficulty levels encountered in algorithm-focused technical interviews. Generic youtube links are provided as a reminder that youtube is often a good resource in conjunction with the leetcode discussion section.
 
-When using leetcode try not to be intimidated by the sometimes very academic sounding problem descriptions or the often unintuitive repl. If you feel lost click the `Run Code` bottom in the bottom right and then freely play around with the inputs under the `Testcase` tab above the bottom right section. This will allow you to experiment until you understand what the question is asking. Again youtube walkthroughs are also fair game for figuring out what you're being asked to do.
+When using leetcode try not to be intimidated by the sometimes very academic problem descriptions or the often unintuitive repl. If you feel lost click the `Run Code` button at the bottom right of the page and then freely play around with the inputs under the `Testcase` tab above the bottom right section. Experiment until you understand what the question is asking. The youtube links are also fair game for problem clarification.
 
 
 ### Arrays
