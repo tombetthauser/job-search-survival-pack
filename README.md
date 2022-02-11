@@ -4,14 +4,20 @@
 
 # Toms Job Search Survival Pack
 
-Just some links I wish I had in one place when I graduated from bootcamp and entered my job search. Non of this should take priority over the guidance of your job coach, nor should it be interpreted as a comprehensive list of the resources you will need during your job search in any way. That said hopefully some of its helpful, I'll keep adding to it when new resources become available. Enjoy!
+Just some links I wish I had in one place when I graduated from bootcamp and entered my job search. Non of this should take priority over the guidance of your job coach, nor should it be interpreted as a comprehensive list of the resources you will need during your job search in any way. That said hopefully some of its helpful, I'll keep adding to it when new resources become available.
+
+Get that money and make the world a better place everybody, you're engineers now!
 
 ---
 
 ## Random Links
 * [Unofficial a/A Alumni Contact Sheet](https://docs.google.com/spreadsheets/d/1skOb72NoTWVG6YEu7ShxchjZVaP9dBJJ3D7Hqyu6yFQ/edit#gid=947709627)
+* [General Use Behavioral Interview Questions from Amazon](https://github.com/tombetthauser/amazon-behavioral-interview)
+* [Google Technical Interview Leetcode Links](https://github.com/tombetthauser/google-interview)
+* [Resources for Randomly Learning C++](https://github.com/tombetthauser/learning-cpp)
 * [Inspirational Engineering Hippocratic Oath Thing](https://en.wikipedia.org/wiki/Order_of_the_Engineer)
-* [Inspirational Computer Poem](https://www.sweetbooks.com/pictures/medium/SKB-4115.jpg)
+* [Inspirational Computer Poem](https://www.sweetbooks.com/pictures/medium/SKB-4115.jpg) | [wiki](https://en.wikipedia.org/wiki/All_Watched_Over_by_Machines_of_Loving_Grace)
+<!-- * [Amazon Technical Interview Leetcode Links](https://github.com/tombetthauser/amazon-interview) -->
 
 ---
 
@@ -21,21 +27,16 @@ No matter how comfortable you are building out a fullstack web application, it's
 
 Please note that there is not a link to a completed Authenticate Me solution. This is unfortunately necessary as the solution is not a publically accessible resource from curriculum. That said if you build it out again save it as a generic solution!
 
-[Express / Pug Project Starter](https://github.com/appacademy/modular-curriculum-practices/tree/staging/13/practices/express-group-project)
-
-[Express / React Project Starter Instructions 1/3 - Backend](https://open.appacademy.io/learn/js-py---oct-2021-cohort-1-online/week-15---redux-and-authentication/authenticate-me-part-1--backend)
-
-[Express / React Project Starter Instructions 2/3 - Frontend](https://open.appacademy.io/learn/js-py---oct-2021-cohort-1-online/week-15---redux-and-authentication/continue-authenticate-me-part-2--frontend)
-
-[Express / React Project Starter Instructions 3/3 - Deployment](https://open.appacademy.io/learn/js-py---oct-2021-cohort-1-online/week-15---redux-and-authentication/authenticate-me-part-3--deploy)
+* [Express / Pug Project Starter](https://github.com/appacademy/modular-curriculum-practices/tree/staging/13/practices/express-group-project)
+* [Express / React Project Starter Instructions 1/3 - Backend](https://open.appacademy.io/learn/js-py---oct-2021-cohort-1-online/week-15---redux-and-authentication/authenticate-me-part-1--backend)
+* [Express / React Project Starter Instructions 2/3 - Frontend](https://open.appacademy.io/learn/js-py---oct-2021-cohort-1-online/week-15---redux-and-authentication/continue-authenticate-me-part-2--frontend)
+* [Express / React Project Starter Instructions 3/3 - Deployment](https://open.appacademy.io/learn/js-py---oct-2021-cohort-1-online/week-15---redux-and-authentication/authenticate-me-part-3--deploy)
+* [Flask / React Project Starter](https://github.com/appacademy-starters/python-project-starter)
 
 <!-- 
 Locked Link to Authenticate Me Solution - For a/A Internal Employee Use Only
 https://files.slack.com/files-pri/T3BTYDL2V-F02V9CGUTFB/download/authenticate-me-2022.zip
 -->
-
-[Flask / React Project Starter](https://github.com/appacademy-starters/python-project-starter)
-
 
 ⚠️ Express Project Note: Faker.js is no longer supported [click here for details](#faker)
 
@@ -72,7 +73,7 @@ The exact location of some of the links for these projects on App Academy Open w
 
 ## Leetcode Starter List
 
-These questions represent a challenging but doable list that covers a full range of subjects and difficulty levels encountered in algorithm-focused technical interviews. Generic youtube links are provided as a reminder that youtube is often a good resource in conjunction with the leetcode discussion section.
+These questions represent a challenging but doable list that covers a full range of subjects and difficulty levels encountered in algorithm-focused technical interviews. Generic youtube links are provided as a reminder that youtube is often a good resource in conjunction with the `discussion section` provided by leetcode.
 
 When using leetcode try not to be intimidated by the sometimes very academic problem descriptions or the often unintuitive repl. If you feel lost click the `Run Code` button at the bottom right of the page and then freely play around with the inputs under the `Testcase` tab above the bottom right section. Experiment until you understand what the question is asking. The youtube links are also fair game for problem clarification.
 
