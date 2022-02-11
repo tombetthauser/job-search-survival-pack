@@ -26,24 +26,7 @@ https://files.slack.com/files-pri/T3BTYDL2V-F02V9CGUTFB/download/authenticate-me
 [Flask / React Project Starter](https://github.com/appacademy-starters/python-project-starter)
 
 
-### ⚠️ Express Project Note: Faker.js is no longer supported
-```javascript
-// Faker is no longer supported, you will need to accommodate for coep errors by using the following in your backend app.js, this will allow 3rd party or http images to display.
-
-app.use(helmet.crossOriginResourcePolicy({ policy: "cross-origin" }));
-```
-
-```bash
-# Also you may need to npm install -g create-react-app first, if you are going to use the template.
-# Open a terminal and change the directory until you are in the directory where you want to create your React app.
-# To begin, install a global version of create-react-app:
-
-npm i -g create-react-app
-
-# You only need to install create-react-app on your computer once, i.e., not before every project.
-# Although the official create-react-app documentation no longer recommends installing a global version of create-react-app, App Academy still recommends that you install it globally. This is because App Academy also encourages you to use nvm (Node Version Manager) to manage versions of Node.js. If you run npx create-react-app (see below) without having first installed create-react-app globally, then nvm will cache the version that you run. This cached version effectively gets treated as a global installation, but, because it is hidden by nvm, it is a global installation that is difficult to find and update. Accordingly, when new create-react-app releases appear, the cached version can cause hard-to-resolve version conflicts that will prevent create-react-app from running. A true global version, in contrast, can be updated simply by re-running the npm installation command.
-# TL;DR: Installing create-react-app globally enables you to easily update and maintain the create-react-app version that you are using with nvm.
-```
+⚠️ Express Project Note: Faker.js is no longer supported [click here for details](#faker)
 
 ---
 
@@ -186,3 +169,27 @@ The exact location of the links for these projects on App Academy Open will be d
 * [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [youtube](https://www.youtube.com/results?search_query=Merge+K+Sorted+Lists+leetcode+python)
 * [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [youtube](https://www.youtube.com/results?search_query=Top+K+Frequent+Elements+leetcode+python)
 * [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [youtube](https://www.youtube.com/results?search_query=Find+Median+from+Data+Stream+leetcode+python)
+
+---
+
+<a name="faker"></a>
+
+## Express Project Faker Workaround
+
+```javascript
+// Faker is no longer supported, you will need to accommodate for coep errors by using the following in your backend app.js, this will allow 3rd party or http images to display.
+
+app.use(helmet.crossOriginResourcePolicy({ policy: "cross-origin" }));
+```
+
+```bash
+# Also you may need to npm install -g create-react-app first, if you are going to use the template.
+# Open a terminal and change the directory until you are in the directory where you want to create your React app.
+# To begin, install a global version of create-react-app:
+
+npm i -g create-react-app
+
+# You only need to install create-react-app on your computer once, i.e., not before every project.
+# Although the official create-react-app documentation no longer recommends installing a global version of create-react-app, App Academy still recommends that you install it globally. This is because App Academy also encourages you to use nvm (Node Version Manager) to manage versions of Node.js. If you run npx create-react-app (see below) without having first installed create-react-app globally, then nvm will cache the version that you run. This cached version effectively gets treated as a global installation, but, because it is hidden by nvm, it is a global installation that is difficult to find and update. Accordingly, when new create-react-app releases appear, the cached version can cause hard-to-resolve version conflicts that will prevent create-react-app from running. A true global version, in contrast, can be updated simply by re-running the npm installation command.
+# TL;DR: Installing create-react-app globally enables you to easily update and maintain the create-react-app version that you are using with nvm.
+```
