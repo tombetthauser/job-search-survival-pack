@@ -4,11 +4,13 @@
 
 # Toms Job Search Survival Pack
 
-A list of links I wish I had had in one place when I graduated from bootcamp and entered my first job search.
+Just some links I wish I had had in one place when I graduated from bootcamp and entered my first job search.
 
 ---
 
-## Project Starters & Instructions
+## Project Starters
+
+No matter how comfortable you are building out a fullstack web application, it's always hard to get started on a new one after a few months. These are the project starters from modules 4, 5 and 6. They can be referenced to start a new project or potentially to help clean up an existing project. Trying to do a 1 or 2 day speed build of a minimal non-portfolio project can be a great idea to stay sharp as well.
 
 [Express / Pug Project Starter](https://github.com/appacademy/modular-curriculum-practices/tree/staging/13/practices/express-group-project)
 
@@ -53,7 +55,12 @@ The exact location of the links for these projects on App Academy Open will be d
 
 ---
 
-## Comprehensive Leetcode Starter List
+## Leetcode Starter List
+
+This list is sometimes referred to as the 'blind 75', don't ask me why. Regardless though they represent a challenging but doable starting list that exposes you to a full range of subjects and difficulty levels. Additionally these questions are specifically chosen because they are commonly encountered in interviews. Generic youtube links are provided as a reminder that youtube is often a better resource than the leetcode discussion section.
+
+When using leetcode try not to be intimidated by the sometimes very academic sounding problem descriptions or the often unintuitive repl. If you feel lost click the `Run Code` bottom in the bottom right and then freely play around with the inputs under the `Testcase` tab above the bottom right section. This will allow you to experiment until you understand what the question is asking. Again youtube walkthroughs are also fair game for figuring out what you're being asked to do.
+
 
 ### Arrays
 
