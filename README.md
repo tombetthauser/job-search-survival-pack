@@ -8,6 +8,13 @@ Just some links I wish I had in one place when I graduated from bootcamp and ent
 
 ---
 
+## Random Links
+* [Unofficial a/A Alumni Contact Sheet](https://docs.google.com/spreadsheets/d/1skOb72NoTWVG6YEu7ShxchjZVaP9dBJJ3D7Hqyu6yFQ/edit#gid=86869598)
+* [Inspirational Engineering Hippocratic Oath Thing](https://en.wikipedia.org/wiki/Order_of_the_Engineer)
+* [Inspirational Computer Poem](https://www.sweetbooks.com/pictures/medium/SKB-4115.jpg)
+
+---
+
 ## Project Starters
 
 No matter how comfortable you are building out a fullstack web application, it's always hard to get started on a new one after a few months. These are the project starters from modules 4, 5 and 6. They can be referenced to start a new project or potentially to help clean up an existing project. Trying to do a 1 or 2 day speed build of a minimal non-portfolio project can be a great idea to stay sharp as well.
