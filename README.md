@@ -4,7 +4,7 @@
 
 # Toms Job Search Survival Pack
 
-Just some links I wish I had had in one place when I graduated from bootcamp and entered my first job search. Non of this should take priority over the guidance of your job coach, nor should it be interpreted as a comprehensive list of the resources you will need during your job search in any way. That said hopefully some of its helpful. Enjoy!
+Just some links I wish I had had in one place when I graduated from bootcamp and entered my first job search. Non of this should take priority over the guidance of your job coach, nor should it be interpreted as a comprehensive list of the resources you will need during your job search in any way. That said hopefully some of its helpful, I'll keep adding to it when new resources / links become available. Enjoy!
 
 ---
 
