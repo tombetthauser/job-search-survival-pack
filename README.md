@@ -124,11 +124,11 @@ The exact location of the links for these projects on App Academy Open will be d
 
 ### Interval Problems
 
-* [Insert Interval](https://leetcode.com/problems/insert-interval/) | [youtube](https://www.youtube.com/results?search_query=Insert Interval+leetcode+python)
-* [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [youtube](https://www.youtube.com/results?search_query=Merge Intervals+leetcode+python)
-* [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [youtube](https://www.youtube.com/results?search_query=Non-overlapping Intervals+leetcode+python)
+* [Insert Interval](https://leetcode.com/problems/insert-interval/) | [youtube](https://www.youtube.com/results?search_query=Insert+Interval+leetcode+python)
+* [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [youtube](https://www.youtube.com/results?search_query=Merge+Intervals+leetcode+python)
+* [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [youtube](https://www.youtube.com/results?search_query=Non-overlapping+Intervals+leetcode+python)
 * [Meeting Rooms (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms/) | [youtube](https://www.youtube.com/results?search_query=Meeting+Rooms+leetcode+python)
-* [Meeting Rooms II (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms-ii/) | [youtube](https://www.youtube.com/results?search_query=Meeting+Rooms II+leetcode+python)
+* [Meeting Rooms II (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms-ii/) | [youtube](https://www.youtube.com/results?search_query=Meeting+Rooms+II+leetcode+python)
 
 
 ### Linked Lists
@@ -172,11 +172,11 @@ The exact location of the links for these projects on App Academy Open will be d
 * [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [youtube](https://www.youtube.com/results?search_query=Binary+Tree+Level+Order+Traversal+leetcode+python)
 * [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [youtube](https://www.youtube.com/results?search_query=Serialize+and+Deserialize+Binary+Tree+leetcode+python)
 * [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [youtube](https://www.youtube.com/results?search_query=Subtree+of+Another+Tree+leetcode+python)
-* [Construct Binary Tree from Preorder and Inorder](https://leetcode.com/problems/ | [youtube](https://www.youtube.com/results?search_query=Construct+Binary+Tree+from+Preorder+and+Inorder+leetcode+python)
+* [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [youtube](https://www.youtube.com/results?search_query=Construct+Binary+Tree+from+Preorder+and+Inorder+Traversal+leetcode+python)
 * [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [youtube](https://www.youtube.com/results?search_query=Validate+Binary+Search+Tree+leetcode+python)
 * [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [youtube](https://www.youtube.com/results?search_query=Kth+Smallest+Element+in+a+BST+leetcode+python)
 * [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [youtube](https://www.youtube.com/results?search_query=Lowest+Common+Ancestor+of+BST+leetcode+python)
-* [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [youtube](https://www.youtube.com/results?search_query=Implement+Trie+Prefix+Tree+leetcode+python)
+* [Implement Trie (Prefix Tree)](https://leetcode.com/problemsConstruct Binary Tree from Preorder and Inorder Traversal/implement-trie-prefix-tree/) | [youtube](https://www.youtube.com/results?search_query=Implement+Trie+Prefix+Tree+leetcode+python)
 * [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [youtube](https://www.youtube.com/results?search_query=Add+and+Search+Word+leetcode+python)
 * [Word Search II](https://leetcode.com/problems/word-search-ii/) | [youtube](https://www.youtube.com/results?search_query=Word+Search+II+leetcode+python)
 
