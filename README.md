@@ -69,6 +69,7 @@ These questions represent a challenging but doable list that covers a full range
 
 When using leetcode try not to be intimidated by the sometimes very academic problem descriptions or the often unintuitive repl. If you feel lost click the `Run Code` button at the bottom right of the page and then freely play around with the inputs under the `Testcase` tab above the bottom right section. Experiment until you understand what the question is asking. The youtube links are also fair game for problem clarification.
 
+[How to use Leetcode without Hating Leetcode (youtube)](https://youtu.be/SqT6pNTCPXE)
 
 ### Arrays
 
