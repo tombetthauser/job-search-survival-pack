@@ -33,18 +33,20 @@ Please note that there is not a link to a completed Authenticate Me solution. Th
 * [Express / React Project Starter Instructions 3/3 - Deployment](https://open.appacademy.io/learn/js-py---oct-2021-cohort-1-online/week-15---redux-and-authentication/authenticate-me-part-3--deploy)
 * [Flask / React Project Starter](https://github.com/appacademy-starters/python-project-starter)
 
-## Coming Soon Maybe
-* AWS Integration - Express | Flask
-* Google Maps Integration - Express | Flask
-* Websockets Integration - Express | Flask
-* Audio Player Integration - Express | Flask
-
 <!-- 
 Locked Link to Authenticate Me Solution - For a/A Internal Employee Use Only
 https://files.slack.com/files-pri/T3BTYDL2V-F02V9CGUTFB/download/authenticate-me-2022.zip
 -->
 
 ⚠️ Express Project Note: Faker.js is no longer supported [click here for details](#faker)
+
+## Coming Soon Maybe
+* AWS Integration - Express | Flask
+* Google Maps Integration - Express | Flask
+* Websockets Integration - Express | Flask
+* Audio Player Integration - Express | Flask
+
+[AWS Flask](https://www.youtube.com/watch?v=EvHltGpbSqo)
 
 ---
 
