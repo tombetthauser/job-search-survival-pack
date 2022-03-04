@@ -17,6 +17,7 @@ Get that money and make the world a better place everybody, you're engineers now
 * [Resources for Randomly Learning C++](https://github.com/tombetthauser/learning-cpp)
 * [Inspirational Engineering Hippocratic Oath Thing](https://en.wikipedia.org/wiki/Order_of_the_Engineer)
 * [Inspirational Computer Poem](https://www.sweetbooks.com/pictures/medium/SKB-4115.jpg) | [wiki](https://en.wikipedia.org/wiki/All_Watched_Over_by_Machines_of_Loving_Grace)
+* [Common Styling Elements / Behaviors You Don't Need Javascript For](https://lexoral.com/blog/you-dont-need-js/)
 <!-- * [Amazon Technical Interview Leetcode Links](https://github.com/tombetthauser/amazon-interview) -->
 
 ---
