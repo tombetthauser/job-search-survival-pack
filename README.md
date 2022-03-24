@@ -10,7 +10,7 @@ Get that money and make the world a better place everybody, you're engineers now
 
 ---
 
-## Random Links
+## Assorted Links
 * [Unofficial a/A Alumni Contact Sheet](https://docs.google.com/spreadsheets/d/1skOb72NoTWVG6YEu7ShxchjZVaP9dBJJ3D7Hqyu6yFQ/edit#gid=947709627)
 * [General Use Behavioral Interview Questions from Amazon](https://github.com/tombetthauser/amazon-behavioral-interview)
 * [Google Technical Interview Leetcode Links](https://github.com/tombetthauser/google-interview)
@@ -19,6 +19,8 @@ Get that money and make the world a better place everybody, you're engineers now
 * [Inspirational Computer Poem](https://www.sweetbooks.com/pictures/medium/SKB-4115.jpg) | [wiki](https://en.wikipedia.org/wiki/All_Watched_Over_by_Machines_of_Loving_Grace)
 * [Common Styling Elements / Behaviors You Don't Need Javascript For](https://lexoral.com/blog/you-dont-need-js/)
 * [Ai Generated Color Palettes / Themes](https://huemint.com/)
+* [Get Rid of Heroku Loading Delay with Google Sheets Hack](https://github.com/mjshuff23/seeker-resources/blob/main/google-sheets-script.md)
+* [Dummy Image Creator for App Testing](https://dummyimage.com/)
 <!-- * [Amazon Technical Interview Leetcode Links](https://github.com/tombetthauser/amazon-interview) -->
 
 ---
