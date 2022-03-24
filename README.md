@@ -1,4 +1,4 @@
-![](https://i.giphy.com/media/xUOxeS6kx9ZUck6F1e/giphy.webp)
+<!-- ![](https://i.giphy.com/media/xUOxeS6kx9ZUck6F1e/giphy.webp) -->
 <!-- ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.hellogiggles.com%2Fuploads%2F2016%2F06%2F27083846%2Fcast-away.gif&f=1&nofb=1) -->
 <!-- ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fl378gOLudxI4TZe9i%2Fgiphy.gif&f=1&nofb=1) -->
 
