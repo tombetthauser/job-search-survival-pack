@@ -26,12 +26,11 @@ Get that money and make the world a better place everybody, you're engineers now
 
 ---
 
+<!-- No matter how comfortable you are building out a fullstack web application, it's always hard to get started on a new one after a few months. These are the project starters from modules 4, 5 and 6. They can be referenced to start a new project or potentially to help clean up an existing project. Trying to do a 1 or 2 day speed build of a minimal non-portfolio project can be a great idea to stay sharp as well.
+
+Please note that there is not a link to a completed Authenticate Me solution. This is unfortunately necessary as the solution is not a publically accessible resource from curriculum. That said if you build it out again save it as a generic solution! -->
+
 ## Project Starters
-
-No matter how comfortable you are building out a fullstack web application, it's always hard to get started on a new one after a few months. These are the project starters from modules 4, 5 and 6. They can be referenced to start a new project or potentially to help clean up an existing project. Trying to do a 1 or 2 day speed build of a minimal non-portfolio project can be a great idea to stay sharp as well.
-
-Please note that there is not a link to a completed Authenticate Me solution. This is unfortunately necessary as the solution is not a publically accessible resource from curriculum. That said if you build it out again save it as a generic solution!
-
 * [Express / Pug Project Starter](https://github.com/appacademy/modular-curriculum-practices/tree/staging/13/practices/express-group-project)
 * [Express / React Project Starter Instructions 1/3 - Backend](https://open.appacademy.io/learn/js-py---oct-2021-cohort-1-online/week-15---redux-and-authentication/authenticate-me-part-1--backend)
 * [Express / React Project Starter Instructions 2/3 - Frontend](https://open.appacademy.io/learn/js-py---oct-2021-cohort-1-online/week-15---redux-and-authentication/continue-authenticate-me-part-2--frontend)
@@ -45,7 +44,7 @@ https://files.slack.com/files-pri/T3BTYDL2V-F02V9CGUTFB/download/authenticate-me
 
 ⚠️ Express Project Note: Faker.js is no longer supported [click here for details](#faker)
 
-### Project Resources
+## Project Resources
 * [Building an API (Flask)](https://hackmd.io/3I_Fc9pRQcuUws6j_zHZeQ)
 * [Using S3 for image upload with Flask](https://hackmd.io/@jpshafto/SyWY45KGu)
 * [Flask-SQLAlchemy Quick Reference](https://hackmd.io/@jpshafto/H1VbmP3yO)
@@ -53,9 +52,11 @@ https://files.slack.com/files-pri/T3BTYDL2V-F02V9CGUTFB/download/authenticate-me
 * [Deploying Flask Apps to Heroku with GitHub Actions](https://hackmd.io/@jma/fast-flask-deploy)
 * [Example of Basic Usage of Google Maps with React](https://hackmd.io/CSu-aTjqSlCfhkTwiqzbVA)
 
-### Coming Soon Maybe
+
+## Coming Soon Maybe
 * Audio Player Integration - Express | Flask
 * Sequelize Cheatsheet
+
 
 ---
 
