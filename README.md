@@ -46,13 +46,17 @@ https://files.slack.com/files-pri/T3BTYDL2V-F02V9CGUTFB/download/authenticate-me
 
 ⚠️ Express Project Note: Faker.js is no longer supported [click here for details](#faker)
 
-## Coming Soon Maybe
-* AWS Integration - Express | Flask
-* Google Maps Integration - Express | Flask
-* Websockets Integration - Express | Flask
-* Audio Player Integration - Express | Flask
+## Project Resources
+* [Building an API (Flask)](https://hackmd.io/3I_Fc9pRQcuUws6j_zHZeQ)
+* [Using S3 for image upload with Flask](https://hackmd.io/@jpshafto/SyWY45KGu)
+* [Flask-SQLAlchemy Quick Reference](https://hackmd.io/@jpshafto/H1VbmP3yO)
+* [Simple websocket set up (React frontend, Flask backend)](https://hackmd.io/@jpshafto/r1BLkFVwu)
+* [Deploying Flask Apps to Heroku with GitHub Actions](https://hackmd.io/@jma/fast-flask-deploy)
+* [Example of Basic Usage of Google Maps with React](https://hackmd.io/CSu-aTjqSlCfhkTwiqzbVA)
 
-[AWS Flask](https://www.youtube.com/watch?v=EvHltGpbSqo)
+## Coming Soon Maybe
+* Audio Player Integration - Express | Flask
+* Sequelize Cheatsheet
 
 ---
 
