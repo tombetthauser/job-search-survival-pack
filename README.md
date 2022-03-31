@@ -64,20 +64,19 @@ https://files.slack.com/files-pri/T3BTYDL2V-F02V9CGUTFB/download/authenticate-me
 
 The exact location of some of the links for these projects on App Academy Open will be different based on your specific cohort. If that is the case they are not linked below. Unfortunately you'll have to track those down yourself but this may encourage you to find other useful items to review along the way!
 
-#### Module 4 - SQL & Express:
+### Module 4 - SQL & Express:
 * Data Driven Apps
 * [Amusement Park Tracker](https://github.com/appacademy-starters/express-amusement-park-tracker-with-auth)
 
 <!-- [Twitter Lite Backend](https://github.com/appacademy/Modular-Curriculum/tree/staging/content/express/topics/apis/projects/api-back-end) -->
 <!-- [Twitter Lite Frontend](https://github.com/appacademy/Modular-Curriculum/tree/staging/content/express/topics/apis/projects/api-front-end) -->
 
-#### Module 5 - React & Redux:
+### Module 5 - React & Redux:
 * Grocery Store App
 * Art Museum Project
 * [Star Trek Project](https://github.com/appacademy-starters/react-context-star-trek)
 * Greenhouse Project
 * Pokedex Thunk
-
 * [Pokedex Solution Copy (coming soon...)](https://github.com/appacademy/Modular-Curriculum/tree/staging/content/react-redux/aggregates/pokedex/redux-based/solution)
 
 <!-- [Pokedex Thunk](https://open.appacademy.io/learn/js-py---jun-2021-cohort-1-online/week-15---redux-and-authentication/pokedex-thunk) -->
@@ -88,7 +87,7 @@ The exact location of some of the links for these projects on App Academy Open w
 <!-- [Pokedex using Redux](https://github.com/appacademy/Modular-Curriculum/tree/staging/content/react-redux/aggregates/pokedex/redux-based) -->
 <!-- [Pokedex using State](https://github.com/appacademy/Modular-Curriculum/tree/staging/content/react-redux/aggregates/pokedex/state-based) -->
 
-#### Module 6 - Python & Flask:
+### Module 6 - Python & Flask:
 * Order Up
 * Package Tracker
 
