@@ -45,7 +45,7 @@ https://files.slack.com/files-pri/T3BTYDL2V-F02V9CGUTFB/download/authenticate-me
 
 ⚠️ Express Project Note: Faker.js is no longer supported [click here for details](#faker)
 
-## Project Resources
+### Project Resources
 * [Building an API (Flask)](https://hackmd.io/3I_Fc9pRQcuUws6j_zHZeQ)
 * [Using S3 for image upload with Flask](https://hackmd.io/@jpshafto/SyWY45KGu)
 * [Flask-SQLAlchemy Quick Reference](https://hackmd.io/@jpshafto/H1VbmP3yO)
@@ -53,7 +53,7 @@ https://files.slack.com/files-pri/T3BTYDL2V-F02V9CGUTFB/download/authenticate-me
 * [Deploying Flask Apps to Heroku with GitHub Actions](https://hackmd.io/@jma/fast-flask-deploy)
 * [Example of Basic Usage of Google Maps with React](https://hackmd.io/CSu-aTjqSlCfhkTwiqzbVA)
 
-## Coming Soon Maybe
+### Coming Soon Maybe
 * Audio Player Integration - Express | Flask
 * Sequelize Cheatsheet
 
@@ -101,9 +101,9 @@ The exact location of some of the links for these projects on App Academy Open w
 
 These questions represent a challenging but doable list that covers a full range of subjects and difficulty levels encountered in algorithm-focused technical interviews. Generic youtube links are provided as a reminder that youtube is often a good resource in conjunction with the `discussion section` provided by leetcode.
 
-When using leetcode try not to be intimidated by the sometimes very academic problem descriptions or the often unintuitive repl. If you feel lost click the `Run Code` button at the bottom right of the page and then freely play around with the inputs under the `Testcase` tab above the bottom right section. Experiment until you understand what the question is asking. The youtube links are also fair game for problem clarification.
-
 [How to use Leetcode without Hating Leetcode (youtube)](https://youtu.be/SqT6pNTCPXE)
+
+When using leetcode try not to be intimidated by the sometimes very academic problem descriptions or the often unintuitive repl. If you feel lost click the `Run Code` button at the bottom right of the page and then freely play around with the inputs under the `Testcase` tab above the bottom right section. Experiment until you understand what the question is asking. The youtube links are also fair game for problem clarification.
 
 ### Arrays
 
