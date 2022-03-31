@@ -21,7 +21,6 @@ Get that money and make the world a better place everybody, you're engineers now
 * [Ai Generated Color Palettes / Themes](https://huemint.com/)
 * [Get Rid of Heroku Loading Delay with Google Sheets Hack](https://github.com/mjshuff23/seeker-resources/blob/main/google-sheets-script.md)
 * [Dummy Image Creator for App Testing](https://dummyimage.com/)
-* [Pokedex Solution Copy (coming soon...)](https://github.com/appacademy/Modular-Curriculum/tree/staging/content/react-redux/aggregates/pokedex/redux-based/solution)
 * [Linkedin - link your projects in the featured section](https://www.linkedin.com/pulse/how-properly-link-your-work-featured-section-profile-jeremy-seckinger/)
 <!-- * [Amazon Technical Interview Leetcode Links](https://github.com/tombetthauser/amazon-interview) -->
 
@@ -77,6 +76,8 @@ The exact location of some of the links for these projects on App Academy Open w
 * [Star Trek Project](https://github.com/appacademy-starters/react-context-star-trek)
 * Greenhouse Project
 * Pokedex Thunk
+
+* [Pokedex Solution Copy (coming soon...)](https://github.com/appacademy/Modular-Curriculum/tree/staging/content/react-redux/aggregates/pokedex/redux-based/solution)
 
 <!-- [Pokedex Thunk](https://open.appacademy.io/learn/js-py---jun-2021-cohort-1-online/week-15---redux-and-authentication/pokedex-thunk) -->
 <!-- [Greenhouse](https://github.com/appacademy-starters/greenhouse) -->
