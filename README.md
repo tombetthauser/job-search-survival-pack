@@ -22,7 +22,6 @@ Get that money and make the world a better place everybody, you're engineers now
 * [Get Rid of Heroku Loading Delay with Google Sheets Hack](https://github.com/mjshuff23/seeker-resources/blob/main/google-sheets-script.md)
 * [Dummy Image Creator for App Testing](https://dummyimage.com/)
 * [Linkedin - link your projects in the featured section](https://www.linkedin.com/pulse/how-properly-link-your-work-featured-section-profile-jeremy-seckinger/)
-* [Guide for Models and Queries in Flask-Sqlalchemy (self-referencing followers)](https://hackmd.io/yLzQ96zARg2EMnV72m-PfQ)
 <!-- * [Amazon Technical Interview Leetcode Links](https://github.com/tombetthauser/amazon-interview) -->
 
 ---
@@ -52,6 +51,7 @@ https://files.slack.com/files-pri/T3BTYDL2V-F02V9CGUTFB/download/authenticate-me
 * [Simple websocket set up (React frontend, Flask backend)](https://hackmd.io/@jpshafto/r1BLkFVwu)
 * [Deploying Flask Apps to Heroku with GitHub Actions](https://hackmd.io/@jma/fast-flask-deploy)
 * [Example of Basic Usage of Google Maps with React](https://hackmd.io/CSu-aTjqSlCfhkTwiqzbVA)
+* [Guide for Models and Queries in Flask-Sqlalchemy (self-referencing followers)](https://hackmd.io/yLzQ96zARg2EMnV72m-PfQ)
 
 
 ## Coming Soon Maybe
