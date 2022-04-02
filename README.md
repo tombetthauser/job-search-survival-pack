@@ -22,6 +22,7 @@ Get that money and make the world a better place everybody, you're engineers now
 * [Get Rid of Heroku Loading Delay with Google Sheets Hack](https://github.com/mjshuff23/seeker-resources/blob/main/google-sheets-script.md)
 * [Dummy Image Creator for App Testing](https://dummyimage.com/)
 * [Linkedin - link your projects in the featured section](https://www.linkedin.com/pulse/how-properly-link-your-work-featured-section-profile-jeremy-seckinger/)
+* [Guide for Models and Queries in Flask-Sqlalchemy (self-referencing followers)](https://hackmd.io/yLzQ96zARg2EMnV72m-PfQ)
 <!-- * [Amazon Technical Interview Leetcode Links](https://github.com/tombetthauser/amazon-interview) -->
 
 ---
