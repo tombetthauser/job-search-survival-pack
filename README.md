@@ -2,7 +2,7 @@
 <!-- ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.hellogiggles.com%2Fuploads%2F2016%2F06%2F27083846%2Fcast-away.gif&f=1&nofb=1) -->
 <!-- ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fl378gOLudxI4TZe9i%2Fgiphy.gif&f=1&nofb=1) -->
 
-# Tom's Job Search Survival Pack
+# Job Search Survival Pack
 
 Just some links I wish I had in one place when I graduated from bootcamp and entered my job search. None of this should take priority over the guidance of your job coach, nor should it be interpreted as a comprehensive list of the resources you will need during your job search in any way. That said hopefully some of its helpful, I'll keep adding to it when new resources become available.
 
