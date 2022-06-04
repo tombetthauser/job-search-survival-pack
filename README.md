@@ -62,6 +62,13 @@ https://files.slack.com/files-pri/T3BTYDL2V-F02V9CGUTFB/download/authenticate-me
 
 ---
 
+## Internships etc
+
+* [microsoft internship](https://www.microsoft.com/en-us/leap/)
+* lyft inernship
+
+---
+
 ## Good Projects to Review
 
 The exact location of some of the links for these projects on App Academy Open will be different based on your specific cohort. If that is the case they are not linked below. Unfortunately you'll have to track those down yourself but this may encourage you to find other useful items to review along the way!
